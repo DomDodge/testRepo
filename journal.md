@@ -1,6 +1,7 @@
 8.29.25: Today I learned more about command line tools and became more efficient with them.
 I learned the importance of keeping a development journal. Therefore, I have created one :)
 
+9.7.25 We have started to work together and decided to name our app "duck duck goose" a fun, wholesome dating app.
 
 9.20.25: This week we finished off some of the planning and requirements. We have a good list of what this project is going to require of us.
 
